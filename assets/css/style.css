@@ -5859,7 +5859,7 @@ footer.clean-footer.crev:before {
 
   .startup-header>.valign>.head-container{
     flex-direction: column;
-    gap: 55px;
+    gap: 30px;
     align-items: center;
     justify-content: center;
     height: auto;
@@ -5870,7 +5870,7 @@ footer.clean-footer.crev:before {
     margin-top: 100px;
   }
   .startup-header>.valign>.head-container>img.bubble-thumb-bg{
-    width: 70%;
+    width: 80%;
     flex: 1;
   }
 
